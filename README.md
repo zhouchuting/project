@@ -1,9 +1,6 @@
 # intro
 
-1.分析百度搜索的url，获取页面<br>
-2.分析页面的html结构，找到搜索链接在页面中的位置，得到真实的搜索链接<br>
-3.提取网页正文<br>
-4.jieba建立语料库<br>
+
 <p>
 reference：<br>
 https://blog.csdn.net/u012249992/article/details/79525396<br>
