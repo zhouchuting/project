@@ -1,5 +1,5 @@
 # Referances＋学习笔记
-聚类部分实现参考：
+整体实现参考：
 https://blog.csdn.net/weixin_41276745/article/details/79611259
 <p>
 关于tf-idf权值<br>
