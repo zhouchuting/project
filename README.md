@@ -1,10 +1,6 @@
-# intro
-
-
-<p>
-reference：<br>
-https://blog.csdn.net/u012249992/article/details/79525396<br>
-https://blog.csdn.net/github_36326955/article/details/54891204<br>
+# Referances＋学习笔记
+聚类部分实现参考：
+https://blog.csdn.net/weixin_41276745/article/details/79611259
 <p>
 关于tf-idf权值<br>
 https://www.cnblogs.com/likai198981/p/3344060.html<br>
